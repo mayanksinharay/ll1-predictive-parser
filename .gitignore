@@ -1,0 +1,23 @@
+# Compiled binaries and executables
+*.exe
+*.out
+*.app
+
+# Object files and libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+
+# Debug symbols and build artifacts
+*.dSYM/
+*.pdb
+*.ilk
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*.DS_Store
