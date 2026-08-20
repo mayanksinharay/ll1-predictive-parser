@@ -481,7 +481,7 @@ g++ --version
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/mayanksinharay/ll1-predictive-parser.git
 cd <repository-name>
 ```
 
